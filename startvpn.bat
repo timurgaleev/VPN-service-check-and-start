@@ -1,0 +1,1 @@
+powershell.exe -executionpolicy bypass -windowstyle hidden -noninteractive -nologo -file "C:\your_path\vpn.ps1"
